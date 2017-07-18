@@ -1,0 +1,254 @@
+{
+  "version" : 2,
+  "root" : {
+    "id" : "a.aH1L=6",
+    "__class" : "CanvasNode",
+    "parentid" : null,
+    "children" : [
+      {
+        "id" : "(OY$~P'2",
+        "__class" : "FrameNode",
+        "x" : 420,
+        "parentid" : "a.aH1L=6",
+        "width" : 320,
+        "y" : 0,
+        "deviceType" : "apple-iphone-5s-space-gray",
+        "type" : "apple-iphone-5s-space-gray",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "__class" : "SVGNode",
+            "fillType" : "color",
+            "originalFilename" : "arrow_back",
+            "centerAnchorX" : 0.09375,
+            "parentid" : "(OY$~P'2",
+            "rotation" : 0,
+            "locked" : false,
+            "intrinsicWidth" : 24,
+            "top" : 21,
+            "right" : null,
+            "intrinsicHeight" : 24,
+            "name" : "backButton",
+            "shadows" : [
+              {
+                "y" : 2,
+                "enabled" : false,
+                "blur" : 5,
+                "x" : 0,
+                "__class" : "Shadow",
+                "color" : "rgba(0,0,0,0.25)"
+              }
+            ],
+            "aspectRatioLocked" : true,
+            "id" : "W4K@L!xM",
+            "svg" : "<?xml version=\"1.0\"?><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\"><path d=\"M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z\"><\/path><\/svg>",
+            "constraintsLocked" : false,
+            "left" : 18,
+            "bottom" : null,
+            "height" : 24,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "width" : 24,
+            "widthFactor" : null,
+            "targetName" : "backButton",
+            "heightFactor" : null,
+            "fillColor" : "rgb(255, 255, 255)",
+            "opacity" : 1,
+            "centerAnchorY" : 0.05809859154929577,
+            "visible" : true
+          }
+        ],
+        "height" : 568,
+        "fillType" : "color",
+        "targetName" : "detail",
+        "fillColor" : "rgb(104, 22, 197)",
+        "name" : "detail"
+      },
+      {
+        "id" : "Hd$Iyym,",
+        "__class" : "FrameNode",
+        "x" : 0,
+        "parentid" : "a.aH1L=6",
+        "width" : 320,
+        "y" : 0,
+        "deviceType" : "apple-iphone-5s-space-gray",
+        "type" : "apple-iphone-5s-space-gray",
+        "fillGradient" : {
+          "end" : "rgba(0,0,0,0)",
+          "alpha" : 1,
+          "angle" : 0,
+          "__class" : "LinearGradient",
+          "start" : "black"
+        },
+        "children" : [
+          {
+            "radiusBottomLeft" : 32,
+            "rotation" : 0,
+            "__class" : "RectangleNode",
+            "id" : ">cE}4'+E",
+            "fillColor" : "rgba(0, 0, 0, 0.8)",
+            "aspectRatioLocked" : false,
+            "widthFactor" : null,
+            "opacity" : 1,
+            "clip" : false,
+            "borderColor" : "#222",
+            "left" : 49,
+            "locked" : false,
+            "fillGradient" : {
+              "end" : "rgba(0,0,0,0)",
+              "alpha" : 1,
+              "angle" : 0,
+              "__class" : "LinearGradient",
+              "start" : "black"
+            },
+            "radius" : 32,
+            "boxShadows" : [
+              {
+                "x" : 0,
+                "color" : "rgba(0,0,0,0.25)",
+                "enabled" : false,
+                "y" : 2,
+                "__class" : "BoxShadow",
+                "inset" : false,
+                "blur" : 5
+              }
+            ],
+            "centerAnchorX" : 0.5015625,
+            "borderPerSide" : false,
+            "fillType" : "color",
+            "radiusBottomRight" : 32,
+            "children" : [
+              {
+                "__class" : "TextNode",
+                "locked" : false,
+                "centerAnchorX" : 0.5022421524663677,
+                "parentid" : ">cE}4'+E",
+                "rotation" : 0,
+                "top" : null,
+                "right" : null,
+                "styledText" : {
+                  "blocks" : [
+                    {
+                      "depth" : 0,
+                      "inlineStyleRanges" : [
+                        {
+                          "length" : 7,
+                          "style" : "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "SIZE:16",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "LETTERSPACING:0",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "LINEHEIGHT:1.2",
+                          "offset" : 0
+                        },
+                        {
+                          "length" : 7,
+                          "style" : "COLOR:rgb(255, 255, 255)",
+                          "offset" : 0
+                        }
+                      ],
+                      "entityRanges" : [
+
+                      ],
+                      "data" : {
+                        "emptyStyle" : [
+                          "FONT:.SFNSText|SFUIText-Regular|.SFUIText",
+                          "SIZE:16",
+                          "LETTERSPACING:0",
+                          "LINEHEIGHT:1.2",
+                          "COLOR:rgb(255, 255, 255)"
+                        ]
+                      },
+                      "text" : "Tap me!",
+                      "key" : "77sdr",
+                      "type" : "unstyled"
+                    }
+                  ],
+                  "__class" : "StyledTextDraft",
+                  "entityMap" : {
+
+                  }
+                },
+                "name" : null,
+                "shadows" : [
+                  {
+                    "y" : 2,
+                    "enabled" : false,
+                    "blur" : 5,
+                    "x" : 0,
+                    "__class" : "Shadow",
+                    "color" : "rgba(0,0,0,0.25)"
+                  }
+                ],
+                "id" : "D|l#pxC0",
+                "x" : 70,
+                "constraintsLocked" : false,
+                "left" : null,
+                "bottom" : null,
+                "height" : 19,
+                "opacity" : 1,
+                "width" : 62,
+                "widthFactor" : null,
+                "targetName" : null,
+                "heightFactor" : null,
+                "editable" : false,
+                "visible" : true,
+                "centerAnchorY" : 0.5078125,
+                "autoSize" : true,
+                "y" : 42
+              }
+            ],
+            "fillEnabled" : true,
+            "parentid" : "Hd$Iyym,",
+            "borderRight" : 1,
+            "name" : "tapMeButton",
+            "height" : 64,
+            "borderWidth" : 1,
+            "top" : null,
+            "borderTop" : 1,
+            "radiusTopRight" : 32,
+            "borderBottom" : 1,
+            "borderEnabled" : false,
+            "constraintsLocked" : false,
+            "right" : 48,
+            "radiusPerCorner" : false,
+            "centerAnchorY" : 0.5,
+            "visible" : true,
+            "borderLeft" : 1,
+            "heightFactor" : null,
+            "radiusTopLeft" : 32,
+            "targetName" : "tapMeButton",
+            "bottom" : null,
+            "width" : 223
+          }
+        ],
+        "height" : 568,
+        "fillType" : "color",
+        "targetName" : "root",
+        "fillColor" : "rgb(222, 110, 110)",
+        "name" : "root"
+      }
+    ]
+  }
+}
